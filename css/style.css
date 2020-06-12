@@ -1,0 +1,50 @@
+body {
+    
+    background: linear-gradient(lightpink, coral);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.3em;
+}
+
+.primary-heading {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.center-this {
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.secondary-heading{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list-colour {
+    color: cadetblue;
+}
+
+.highlight {
+    background-color: coral;
+}
+
+.box-one {
+    background-color: cadetblue;
+    text-align: justify;
+
+    box-sizing: content-box;
+    width: 80%;
+    height: auto;
+
+    padding: 1em;
+    border: 1em solid crimson;
+
+    margin: 0 auto;
+}
+.photo-size {
+    width: 300px
+}
